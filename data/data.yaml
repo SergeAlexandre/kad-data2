@@ -2,9 +2,9 @@
 
 documents:
   - name: data2-minio-parameters
-    text:
+    text: |
       minio:
-        rootUser: minio2
+        rootUser: minio2b
         rootPassword: minio123
 
 

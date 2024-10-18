@@ -4,8 +4,8 @@ documents:
   - name: data2-minio-parameters
     text: |
       minio:
-        rootUser: minio
-        rootPassword: minio123
+        rootUser: minio2
+        rootPassword: mini123
 
 
 

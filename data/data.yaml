@@ -2,7 +2,7 @@
 
 documents:
   - name: data2-minio-parameters
-    text: |
+    yaml:
       minio:
         rootUser: minio2
         rootPassword: minio123
